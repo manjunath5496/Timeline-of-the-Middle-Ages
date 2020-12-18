@@ -1633,7 +1633,7 @@
 <td>1419</td>
 <td>&nbsp;</td>
 <td><a title="Hussite Wars" href="https://en.wikipedia.org/wiki/Hussite_Wars">Hussite Wars</a>&nbsp;begin after four years after the death of&nbsp;<a title="Jan Hus" href="https://en.wikipedia.org/wiki/Jan_Hus">Jan Hus</a>&nbsp;in central Europe, dealing with&nbsp;<a title="Hussites" href="https://en.wikipedia.org/wiki/Hussites">the followers of Jan Hus</a>&nbsp;and those against them.</td>
-<td>Although the war was a stalemate (ended around 1434), it was another factor that<sup class="noprint Inline-Template">[<em><a title="Wikipedia:Please clarify" href="https://en.wikipedia.org/wiki/Wikipedia:Please_clarify"><span title="The text near this tag may need clarification or removal of jargon. (September 2012)">clarification needed</span></a></em>]</sup>&nbsp;between the Catholics and Protestants before the&nbsp;<a class="mw-redirect" title="Protestant Reformation" href="https://en.wikipedia.org/wiki/Protestant_Reformation">Protestant Reformation</a>.</td>
+<td>Although the war was a stalemate (ended around 1434), it was another factor that&nbsp;between the Catholics and Protestants before the&nbsp;<a class="mw-redirect" title="Protestant Reformation" href="https://en.wikipedia.org/wiki/Protestant_Reformation">Protestant Reformation</a>.</td>
 </tr>
 <tr>
 <td>1428</td>
@@ -1669,7 +1669,7 @@
 <td>1438</td>
 <td>&nbsp;</td>
 <td>Prince&nbsp;<a class="mw-redirect" title="Cusi Yapanqui" href="https://en.wikipedia.org/wiki/Cusi_Yapanqui">Cusi Yupanqui</a>&nbsp;becomes the first&nbsp;<a title="Inca Empire" href="https://en.wikipedia.org/wiki/Inca_Empire">Inca</a>&nbsp;emperor.</td>
-<td>Inca civilization begins expanding and the Inca Empire is born.<sup id="cite_ref-:1_24-2" class="reference"><a href="https://en.wikipedia.org/wiki/Timeline_of_the_Middle_Ages#cite_note-:1-24">[24]</a></sup></td>
+<td>Inca civilization begins expanding and the Inca Empire is born.</td>
 </tr>
 <tr>
 <td>1439</td>
